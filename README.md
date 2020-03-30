@@ -1,4 +1,20 @@
 # main-page-on-vue
+> Project for learning.
+> Otus pyweb vue
+
+## Dependencies
+The base project dependencies:
+
+- bootstrap
+- vue
+- vue-infinite-slide-bar
+- vuelidate
+
+The complete list of dependencies can be found at package.json file.
+
+
+## Preview
+![preview](preview.gif) 
 
 ## Project setup
 ```
